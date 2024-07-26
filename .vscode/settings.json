@@ -1,0 +1,22 @@
+{
+  "cSpell.words": [
+    "Addrs",
+    "chrono",
+    "dashmap",
+    "fullname",
+    "Hasher",
+    "hget",
+    "hgetall",
+    "hmap",
+    "hmget",
+    "hset",
+    "oneshot",
+    "peekable",
+    "pkey",
+    "sadd",
+    "signin",
+    "sismember",
+    "sqlx",
+    "thiserror"
+  ]
+}
